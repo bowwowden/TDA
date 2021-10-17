@@ -15,6 +15,8 @@ It's designed to run all day, and will consistently loop through the list of tic
 It will automatically handle the start and end of the trading day, as well as holidays, etc. 
 
 
-### Installation 
+### Continuous Integration Testing
 
-### Makefile
+This github action allows a developer to push code changes to the repository **and** send those changes to a server. 
+This video does a great job explaining how to automatically deploy a github repo to your server
+https://www.youtube.com/watch?v=DufTz_ShMVw
